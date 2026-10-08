@@ -1,0 +1,151 @@
+pair_id,seed_text,transformed_text,same_polarity,naturalness
+P001,Giovanni felt the podcast was really enjoyable.,Giovanni felt the podcast was not unenjoyable.,1,0
+P002,Giovanni felt the tour was extremely ugly.,Giovanni felt the tour was exceptionally hideous.,1,1
+P003,Many visitors criticized the exhibition.,Many visitors criticized the exhibition .,1,0
+P004,Alice criticized the podcast.,Bob criticized the podcast.,1,1
+P005,What a nice performance!,What a lovely performance!,1,1
+P006,I thought the book was truly satisfying.,I thought the book was truly rewarding.,1,1
+P007,The drivers at the cinema were very rude.,The drivers at the cinema were not courteous.,1,1
+P008,"Our trip to Paris was very beautiful, and Bob loved every minute.","Our  trip  to  Paris  was  very  beautiful,  and  Bob  loved  every  minute.  ",1,0
+P009,What a pleasant podcast!,What a enjoyable podcast!,1,1
+P010,The jury praised the documentary.,The documentary was praised by the jury.,1,1
+P011,Bob visited the concert in Berlin last week.,"Last week, Bob visited the concert in Berlin.",1,1
+P012,The podcast in Cairo was horrible.,The podcast in Seoul was horrible.,1,1
+P013,I would recommend the documentary because it was great.,I would recommend the documentary because it was not poor at all.,1,1
+P014,The nurses at the restaurant were rude.,The nurses at the restaurant were not polite.,1,1
+P015,The clinic in Tokyo is clean.,The clinic in Tokyo is not dirty.,1,1
+P016,I would avoid the trip because it was incredibly slow.,I would avoid the trip because it was not quick.,1,1
+P017,"In my opinion, the performance was extremely lovely.","In my opinion, the performance was exceptionally delightful.",1,1
+P018,"In my opinion, the performance was extremely lovely.","In my opinion, the performance was not unattractive.",1,0
+P019,Imani said that the museum closes at five fifteen.,Jamal said that the museum closes at five fifteen.,1,1
+P020,Priya felt the meal was incredibly great.,Priya felt the meal was incredibly excellent.,1,1
+P021,The nurses at the airline were extremely friendly.,The nurses at the airline were incredibly amiable.,1,1
+P022,"On Tuesday, Charlie traveled to Seoul.","On Tuesday, Ethan traveled to Tokyo.",1,1
+P023,The novel in Mumbai was really unpleasant.,The novel in Lagos was really unpleasant.,1,0
+P024,"On Monday, Imani walked from the station to the cinema.","On Monday, Priya walked from the station to the cinema.",1,1
+P025,Ethan described the game as very slow.,Ethan described the game as really sluggish.,1,1
+P026,"The service at the museum was really horrible, and we left early.","The service at the museum was truly dreadful, and we left early.",1,1
+P027,What a fantastic film!,What a fabulous film!,1,1
+P028,Priya felt the meal was incredibly great.,Mei felt the meal was incredibly great.,1,1
+P029,Bob traveled to Sydney last month.,Diana traveled to Seoul last month.,1,1
+P030,The documentary that Hiroshi saw was extremely bad.,The documentary that Hiroshi saw was not good.,1,1
+P031,The book was criticized by Giovanni.,Giovanni criticized the book.,1,1
+P032,Bob said the novel was really good.,Diana said the novel was really good.,1,1
+P033,The report said that the show was very amazing.,The report said that the show was not unremarkable.,1,0
+P034,"According to Mei, the lecture in Paris was incredibly unpleasant.","According to Mei, the lecture in Paris was incredibly disagreeable.",1,1
+P035,"Yesterday, Imani visited the book in Toronto.",Imani visited the book in Toronto yesterday.,1,1
+P036,The performance in Mumbai was really interesting.,The performance in Mumbai was not boring.,1,1
+P037,"The service at the hotel was very terrible, and we left early.","The service at the hotel was truly dreadful, and we left early.",1,1
+P038,The show in Mumbai was very beautiful.,The show in Mumbai was not unattractive.,1,0
+P039,I thought the podcast was incredibly satisfying.,I thought the podcast was not unsatisfying.,1,0
+P040,"On Monday, Ethan traveled to London.","On Monday, Fatima traveled to Tokyo.",1,1
+P041,"On Monday, Imani walked from the station to the restaurant.",Imani walked from the station to the restaurant on Monday.,1,1
+P042,Alice felt the meal was quite ugly.,Alice felt that the meal was quite ugly.,1,1
+P043,The train to Cairo leaves at nine.,The train to Seoul leaves at nine.,1,1
+P044,"According to Jamal, the play in Seoul was incredibly unpleasant.","According to Priya, the play in London was incredibly unpleasant.",1,0
+P045,The novel seemed extremely impressive to everyone.,The novel seemed incredibly striking to everyone.,1,1
+P046,The nurses at the airline were extremely friendly.,The nurses at the airline were not unfriendly.,1,1
+P047,I think the game was very boring.,I think that the game was very boring.,1,1
+P048,The concert was extremely awful.,The concert was not acceptable.,1,0
+P049,The film seemed extremely slow to everyone.,The film seemed exceptionally plodding to everyone.,1,1
+P050,We visited the play in Tokyo and found it quite disappointing.,We visited the play in Tokyo and found it rather underwhelming.,1,1
+P051,Hiroshi described the play as extremely interesting.,Hiroshi described the play as exceptionally fascinating.,1,1
+P052,Mei prepared the soup.,The soup was prepared by Mei.,1,1
+P053,I found the trip to be really mediocre.,I found the trip to be not good.,0,1
+P054,Local reviewers criticized the concert.,The concert was criticized by local reviewers.,1,1
+P055,"On Monday, Charlie walked from the station to the museum.","On Monday, Diana walked from the station to the museum.",1,1
+P056,Alice traveled to Lagos last month.,"Last month, Alice traveled to Lagos.",1,1
+P057,Bob wrote the report.,Diana wrote the report.,1,1
+P058,"The lecture was truly bad, but Bob stayed until the end.","The lecture was not great, but Bob stayed until the end.",1,1
+P059,Fatima and Ethan met in Cairo on Tuesday.,"On Tuesday, Fatima and Ethan met in Cairo.",1,1
+P060,The game in Toronto was incredibly ugly.,The game in Cairo was incredibly ugly.,1,1
+P061,The concert that Hiroshi saw was really disappointing.,The concert that Jamal saw was really disappointing.,1,1
+P062,What an interesting exhibition!,What an fascinating exhibition!,1,1
+P063,The tour that Hiroshi saw was very terrible.,The tour that Hiroshi saw was not good.,1,1
+P064,Alice felt the play was extremely pleasant.,Alice felt that the play was extremely pleasant.,1,1
+P065,"After the concert, we agreed that it was interesting.","After  the  concert,  we  agreed  that  it  was  interesting.  ",1,0
+P066,The play and the show were both very satisfying.,The play and the show were both really gratifying.,1,1
+P067,The novel seemed dull to everyone.,The novel seemed not exciting to everyone.,1,0
+P068,The lecture was disappointing.,The lecture was not impressive.,1,1
+P069,Critics praised the lecture.,The lecture was praised by critics.,1,1
+P070,"The film was really poor, but Charlie stayed until the end.","The film was genuinely substandard, but Charlie stayed until the end.",1,1
+P071,"In my opinion, the concert was extremely satisfying.","In my opinion, the concert was exceptionally rewarding.",1,1
+P072,Giovanni visited the play in Cairo on Monday.,Hiroshi visited the play in Seoul on Monday.,1,1
+P073,The waiters at the cinema were extremely polite.,The waiters at the cinema were not rude.,1,1
+P074,Jamal complained that the concert in Berlin was really disappointing.,Jamal complained that the concert in Berlin was genuinely unsatisfying.,1,0
+P075,Jamal visited the tour in Toronto last month.,Priya visited the tour in Sydney last month.,1,1
+P076,Alice said the film was extremely ugly.,Alice said the film was not attractive.,1,1
+P077,I heard from Mei that the exhibition in Mumbai was really amazing.,I heard from Alice that the exhibition in Lagos was really amazing.,1,1
+P078,Mei visited the book in Seoul last year.,Alice visited the book in London last year.,1,1
+P079,Bob traveled to Mumbai this morning.,"This morning, Bob traveled to Mumbai.",1,1
+P080,"In my opinion, the performance was very satisfying.","In my opinion, the performance was really gratifying.",1,1
+P081,I heard from Hiroshi that the concert in Tokyo was really wonderful.,I heard from Hiroshi that the concert in Tokyo was not unpleasant.,1,0
+P082,Priya complained that the album in Cairo was very disappointing.,Priya complained that the album in Cairo was not impressive.,1,1
+P083,I would recommend the exhibition because it was amazing.,I would recommend the exhibition because it was not unimpressive.,1,0
+P084,I heard from Mei that the exhibition in Mumbai was really amazing.,I heard from Mei that the exhibition in Mumbai was genuinely remarkable.,1,1
+P085,The show was praised by many visitors.,"""The show was praised by many visitors.""",1,1
+P086,Hiroshi said the concert was very enjoyable.,Hiroshi said the concert was really pleasurable.,1,1
+P087,Fatima said that the airline closes at seven thirty.,"""Fatima said that the airline closes at seven thirty.""",1,1
+P088,"On Monday, Jamal walked from the station to the clinic.",Jamal walked from the station to the clinic on Monday.,1,1
+P089,The trip was truly interesting.,The trip was truly fascinating.,1,1
+P090,"According to Priya, the exhibition in Sydney was quite unpleasant.","According  to  Priya,  the  exhibition  in  Sydney  was  quite  unpleasant.  ",1,0
+P091,The hotel in Berlin looked crowded from outside.,The hotel in Lagos looked crowded from outside.,1,1
+P092,The tour was extremely wonderful.,The tour was not disagreeable.,1,1
+P093,"The concert was very dull, but Jamal stayed until the end.","The concert was really tedious, but Jamal stayed until the end.",1,1
+P094,"On Monday, Fatima visited the novel in Seoul.","On Monday, Giovanni visited the novel in London.",1,1
+P095,I thought the game was quite enjoyable.,I thought the game was not unenjoyable.,1,0
+P096,The train to London leaves at nine.,The train to Paris leaves at nine.,1,1
+P097,"The show was truly good, but Charlie stayed until the end.","The show was truly fine, but Charlie stayed until the end.",1,1
+P098,"On Monday, Ethan walked from the station to the museum.",Ethan walked from the station to the museum on Monday.,1,1
+P099,The airline is located near the old market in Lagos.,The airline is located near the old market in Toronto.,1,1
+P100,The jury criticized the documentary.,The documentary was criticized by the jury.,1,1
+P101,"Last week, Diana traveled to Sydney.",Diana traveled to Sydney last week.,1,1
+P102,The jury reviewed the documentary.,The documentary was reviewed by the jury.,1,1
+P103,Priya felt the meal was incredibly great.,Priya felt the meal was not bad at all.,1,1
+P104,The tour seemed incredibly horrible to everyone.,The tour seemed not acceptable to everyone.,1,0
+P105,"Last year, Mei visited the book in Sydney.","Last year, Alice visited the book in Cairo.",1,1
+P106,I thought the performance was incredibly impressive.,I thought the performance was incredibly admirable.,1,1
+P107,I think the album was incredibly mediocre.,I think the album was not impressive.,0,1
+P108,The bakery in Berlin looked dirty from outside.,The bakery in Lagos looked dirty from outside.,1,1
+P109,The nurses at the airline were extremely friendly.,The nurses at the airline were exceptionally welcoming.,1,1
+P110,"The concert was very dull, but Jamal stayed until the end.","The concert was very dull, but Mei stayed until the end.",1,1
+P111,Hiroshi said the meal was quite amazing.,Hiroshi said that the meal was quite amazing.,1,1
+P112,Priya described the performance as quite nice.,Alice described the performance as quite nice.,1,1
+P113,I think the performance was quite nice.,I think that the performance was quite nice.,1,1
+P114,The performance was praised by the audience.,The audience praised the performance.,1,1
+P115,Ethan visited the podcast in Tokyo on Tuesday.,"On Tuesday, Ethan visited the podcast in Tokyo.",1,1
+P116,The documentary that Hiroshi saw was extremely bad.,The documentary that Jamal saw was extremely bad.,1,1
+P117,Priya reviewed the film.,The film was reviewed by Priya.,1,1
+P118,"Our trip to Berlin was extremely good, and Charlie loved every minute.","Our trip to Berlin was not bad, and Charlie loved every minute.",1,1
+P119,I heard from Diana that the album in London was beautiful.,I heard from Diana that the album in London was not ugly.,1,1
+P120,I would recommend the play because it was exciting.,I would recommend the play because it was not boring.,1,1
+P121,Mei complained that the game in Sydney was truly horrible.,Mei complained that the game in Sydney was not good.,1,1
+P122,Mei said the book was good.,Mei said that the book was good.,1,1
+P123,"On Tuesday, Mei traveled to Cairo.","On Tuesday, Bob traveled to London.",1,1
+P124,"Our trip to Berlin was extremely good, and Charlie loved every minute.","Our trip to Lagos was extremely good, and Ethan loved every minute.",1,1
+P125,"Our trip to Paris was truly amazing, and Charlie loved every minute.","Our trip to Paris was truly astonishing, and Charlie loved every minute.",1,1
+P126,The library is located near the old market in Lagos.,The library is located near the old market in Lagos .,1,0
+P127,"According to Mei, the performance in Tokyo was very disappointing.","According to Alice, the performance in Paris was very disappointing.",1,1
+P128,Hiroshi complained that the show in Sydney was really unpleasant.,Imani complained that the show in Cairo was really unpleasant.,1,0
+P129,The bakery is located near the old market in Berlin.,The bakery is located near the old market in Lagos.,1,1
+P130,Imani felt the podcast was really great.,Imani felt the podcast was genuinely superb.,1,1
+P131,Ethan said the concert was nice.,Ethan said that the concert was nice.,1,1
+P132,The report said that the concert was very fantastic.,The report said that the concert was not unremarkable.,1,0
+P133,Mei said the book was good.,Mei said the book was fine.,1,1
+P134,What an awful show!,What an dreadful show!,1,1
+P135,"In my opinion, the show was incredibly poor.","In my opinion, the show was incredibly substandard.",1,1
+P136,The trip was criticized by the audience.,The audience criticized the trip.,1,1
+P137,"This morning, Jamal traveled to Toronto.","This morning, Priya traveled to Sydney.",1,1
+P138,Giovanni said the album was extremely slow.,Giovanni said the album was incredibly sluggish.,1,1
+P139,Bob said the podcast was quite amazing.,Bob said that the podcast was quite amazing.,1,1
+P140,The jury reviewed the tour.,The tour was reviewed by the jury.,1,1
+P141,Imani felt the podcast was really great.,Imani felt the podcast was truly excellent.,1,1
+P142,I think the podcast was wonderful.,I think the podcast was marvelous.,1,1
+P143,"The service at the museum was mediocre, and we left early.","The service at the museum was lackluster, and we left early.",1,1
+P144,Bob visited the concert in Berlin last week.,Diana visited the concert in Lagos last week.,1,1
+P145,"According to Fatima, the album in Seoul was quite mediocre.","According to Fatima, the album in Seoul was not impressive.",0,1
+P146,I found the concert to be very boring.,I found the concert to be not exciting.,1,0
+P147,Giovanni felt the play was truly awful.,Giovanni felt the play was not good.,1,1
+P148,Imani and Alice met in Seoul on Tuesday.,"On Tuesday, Imani and Alice met in Seoul.",1,1
+P149,The trip was truly mediocre.,The trip was not good.,0,1
+P150,Jamal sent a message to Imani about the game.,Mei sent a message to Priya about the game.,1,1

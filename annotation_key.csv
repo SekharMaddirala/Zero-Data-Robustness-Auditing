@@ -1,0 +1,151 @@
+﻿pair_id,test_id,relation,operator,seed_text,transformed_text,swapped
+P001,MR4-S0072-00,MR-4,double_negation,Giovanni felt the podcast was really enjoyable.,Giovanni felt the podcast was not unenjoyable.,0
+P002,MR1-S0269-01,MR-1,synonym_substitution,Giovanni felt the tour was extremely ugly.,Giovanni felt the tour was exceptionally hideous.,1
+P003,MR2-S0196-01,MR-2,punctuation_padding,Many visitors criticized the exhibition.,Many visitors criticized the exhibition .,0
+P004,MR3-S0228-00,MR-3,entity_swap,Alice criticized the podcast.,Bob criticized the podcast.,1
+P005,MR1-S0051-01,MR-1,synonym_substitution,What a nice performance!,What a lovely performance!,1
+P006,MR1-S0144-01,MR-1,synonym_substitution,I thought the book was truly satisfying.,I thought the book was truly rewarding.,0
+P007,MR4-S0202-01,MR-4,double_negation,The drivers at the cinema were very rude.,The drivers at the cinema were not courteous.,0
+P008,MR2-S0021-00,MR-2,punctuation_padding,"Our trip to Paris was very beautiful, and Bob loved every minute.","Our  trip  to  Paris  was  very  beautiful,  and  Bob  loved  every  minute.  ",0
+P009,MR1-S0019-01,MR-1,synonym_substitution,What a pleasant podcast!,What a enjoyable podcast!,1
+P010,MR2-S0063-00,MR-2,voice_conversion,The jury praised the documentary.,The documentary was praised by the jury.,1
+P011,MR2-S0388-00,MR-2,adverbial_reposition,Bob visited the concert in Berlin last week.,"Last week, Bob visited the concert in Berlin.",0
+P012,MR3-S0176-00,MR-3,entity_swap,The podcast in Cairo was horrible.,The podcast in Seoul was horrible.,1
+P013,MR4-S0044-01,MR-4,double_negation,I would recommend the documentary because it was great.,I would recommend the documentary because it was not poor at all.,0
+P014,MR4-S0296-00,MR-4,double_negation,The nurses at the restaurant were rude.,The nurses at the restaurant were not polite.,0
+P015,MR4-S0433-00,MR-4,double_negation,The clinic in Tokyo is clean.,The clinic in Tokyo is not dirty.,0
+P016,MR4-S0225-01,MR-4,double_negation,I would avoid the trip because it was incredibly slow.,I would avoid the trip because it was not quick.,0
+P017,MR1-S0025-01,MR-1,synonym_substitution,"In my opinion, the performance was extremely lovely.","In my opinion, the performance was exceptionally delightful.",0
+P018,MR4-S0025-00,MR-4,double_negation,"In my opinion, the performance was extremely lovely.","In my opinion, the performance was not unattractive.",0
+P019,MR3-S0477-00,MR-3,entity_swap,Imani said that the museum closes at five fifteen.,Jamal said that the museum closes at five fifteen.,0
+P020,MR1-S0056-00,MR-1,synonym_substitution,Priya felt the meal was incredibly great.,Priya felt the meal was incredibly excellent.,0
+P021,MR1-S0052-00,MR-1,synonym_substitution,The nurses at the airline were extremely friendly.,The nurses at the airline were incredibly amiable.,0
+P022,MR3-S0576-01,MR-3,entity_swap,"On Tuesday, Charlie traveled to Seoul.","On Tuesday, Ethan traveled to Tokyo.",1
+P023,MR3-S0271-00,MR-3,entity_swap,The novel in Mumbai was really unpleasant.,The novel in Lagos was really unpleasant.,0
+P024,MR3-S0469-01,MR-3,entity_swap,"On Monday, Imani walked from the station to the cinema.","On Monday, Priya walked from the station to the cinema.",0
+P025,MR1-S0416-00,MR-1,synonym_substitution,Ethan described the game as very slow.,Ethan described the game as really sluggish.,0
+P026,MR1-S0282-00,MR-1,synonym_substitution,"The service at the museum was really horrible, and we left early.","The service at the museum was truly dreadful, and we left early.",1
+P027,MR1-S0003-01,MR-1,synonym_substitution,What a fantastic film!,What a fabulous film!,0
+P028,MR3-S0056-00,MR-3,entity_swap,Priya felt the meal was incredibly great.,Mei felt the meal was incredibly great.,1
+P029,MR3-S0517-01,MR-3,entity_swap,Bob traveled to Sydney last month.,Diana traveled to Seoul last month.,0
+P030,MR4-S0357-00,MR-4,double_negation,The documentary that Hiroshi saw was extremely bad.,The documentary that Hiroshi saw was not good.,1
+P031,MR2-S0195-00,MR-2,voice_conversion,The book was criticized by Giovanni.,Giovanni criticized the book.,0
+P032,MR3-S0055-01,MR-3,entity_swap,Bob said the novel was really good.,Diana said the novel was really good.,1
+P033,MR4-S0427-00,MR-4,double_negation,The report said that the show was very amazing.,The report said that the show was not unremarkable.,1
+P034,MR1-S0200-00,MR-1,synonym_substitution,"According to Mei, the lecture in Paris was incredibly unpleasant.","According to Mei, the lecture in Paris was incredibly disagreeable.",1
+P035,MR2-S0387-00,MR-2,adverbial_reposition,"Yesterday, Imani visited the book in Toronto.",Imani visited the book in Toronto yesterday.,0
+P036,MR4-S0139-00,MR-4,double_negation,The performance in Mumbai was really interesting.,The performance in Mumbai was not boring.,0
+P037,MR1-S0297-01,MR-1,synonym_substitution,"The service at the hotel was very terrible, and we left early.","The service at the hotel was truly dreadful, and we left early.",1
+P038,MR4-S0123-01,MR-4,double_negation,The show in Mumbai was very beautiful.,The show in Mumbai was not unattractive.,1
+P039,MR4-S0113-01,MR-4,double_negation,I thought the podcast was incredibly satisfying.,I thought the podcast was not unsatisfying.,1
+P040,MR3-S0526-00,MR-3,entity_swap,"On Monday, Ethan traveled to London.","On Monday, Fatima traveled to Tokyo.",1
+P041,MR2-S0554-00,MR-2,adverbial_reposition,"On Monday, Imani walked from the station to the restaurant.",Imani walked from the station to the restaurant on Monday.,1
+P042,MR2-S0206-00,MR-2,complementizer_insertion,Alice felt the meal was quite ugly.,Alice felt that the meal was quite ugly.,1
+P043,MR3-S0489-00,MR-3,entity_swap,The train to Cairo leaves at nine.,The train to Seoul leaves at nine.,0
+P044,MR3-S0279-00,MR-3,entity_swap,"According to Jamal, the play in Seoul was incredibly unpleasant.","According to Priya, the play in London was incredibly unpleasant.",0
+P045,MR1-S0086-00,MR-1,synonym_substitution,The novel seemed extremely impressive to everyone.,The novel seemed incredibly striking to everyone.,1
+P046,MR4-S0052-00,MR-4,double_negation,The nurses at the airline were extremely friendly.,The nurses at the airline were not unfriendly.,1
+P047,MR2-S0439-00,MR-2,complementizer_insertion,I think the game was very boring.,I think that the game was very boring.,0
+P048,MR4-S0182-01,MR-4,double_negation,The concert was extremely awful.,The concert was not acceptable.,1
+P049,MR1-S0204-01,MR-1,synonym_substitution,The film seemed extremely slow to everyone.,The film seemed exceptionally plodding to everyone.,1
+P050,MR1-S0378-00,MR-1,synonym_substitution,We visited the play in Tokyo and found it quite disappointing.,We visited the play in Tokyo and found it rather underwhelming.,1
+P051,MR1-S0400-01,MR-1,synonym_substitution,Hiroshi described the play as extremely interesting.,Hiroshi described the play as exceptionally fascinating.,0
+P052,MR2-S0334-00,MR-2,voice_conversion,Mei prepared the soup.,The soup was prepared by Mei.,0
+P053,MR4-S0215-00,MR-4,double_negation,I found the trip to be really mediocre.,I found the trip to be not good.,1
+P054,MR2-S0180-00,MR-2,voice_conversion,Local reviewers criticized the concert.,The concert was criticized by local reviewers.,1
+P055,MR3-S0567-00,MR-3,entity_swap,"On Monday, Charlie walked from the station to the museum.","On Monday, Diana walked from the station to the museum.",1
+P056,MR2-S0529-00,MR-2,adverbial_reposition,Alice traveled to Lagos last month.,"Last month, Alice traveled to Lagos.",0
+P057,MR3-S0414-01,MR-3,entity_swap,Bob wrote the report.,Diana wrote the report.,0
+P058,MR4-S0440-01,MR-4,double_negation,"The lecture was truly bad, but Bob stayed until the end.","The lecture was not great, but Bob stayed until the end.",1
+P059,MR2-S0570-00,MR-2,adverbial_reposition,Fatima and Ethan met in Cairo on Tuesday.,"On Tuesday, Fatima and Ethan met in Cairo.",1
+P060,MR3-S0255-01,MR-3,entity_swap,The game in Toronto was incredibly ugly.,The game in Cairo was incredibly ugly.,1
+P061,MR3-S0341-01,MR-3,entity_swap,The concert that Hiroshi saw was really disappointing.,The concert that Jamal saw was really disappointing.,0
+P062,MR1-S0067-01,MR-1,synonym_substitution,What an interesting exhibition!,What an fascinating exhibition!,1
+P063,MR4-S0421-00,MR-4,double_negation,The tour that Hiroshi saw was very terrible.,The tour that Hiroshi saw was not good.,0
+P064,MR2-S0120-00,MR-2,complementizer_insertion,Alice felt the play was extremely pleasant.,Alice felt that the play was extremely pleasant.,0
+P065,MR2-S0042-00,MR-2,punctuation_padding,"After the concert, we agreed that it was interesting.","After  the  concert,  we  agreed  that  it  was  interesting.  ",1
+P066,MR1-S0029-00,MR-1,synonym_substitution,The play and the show were both very satisfying.,The play and the show were both really gratifying.,0
+P067,MR4-S0156-00,MR-4,double_negation,The novel seemed dull to everyone.,The novel seemed not exciting to everyone.,1
+P068,MR4-S0292-01,MR-4,double_negation,The lecture was disappointing.,The lecture was not impressive.,1
+P069,MR2-S0079-00,MR-2,voice_conversion,Critics praised the lecture.,The lecture was praised by critics.,0
+P070,MR1-S0345-01,MR-1,synonym_substitution,"The film was really poor, but Charlie stayed until the end.","The film was genuinely substandard, but Charlie stayed until the end.",0
+P071,MR1-S0105-01,MR-1,synonym_substitution,"In my opinion, the concert was extremely satisfying.","In my opinion, the concert was exceptionally rewarding.",0
+P072,MR3-S0435-00,MR-3,entity_swap,Giovanni visited the play in Cairo on Monday.,Hiroshi visited the play in Seoul on Monday.,1
+P073,MR4-S0147-00,MR-4,double_negation,The waiters at the cinema were extremely polite.,The waiters at the cinema were not rude.,1
+P074,MR1-S0291-01,MR-1,synonym_substitution,Jamal complained that the concert in Berlin was really disappointing.,Jamal complained that the concert in Berlin was genuinely unsatisfying.,0
+P075,MR3-S0340-00,MR-3,entity_swap,Jamal visited the tour in Toronto last month.,Priya visited the tour in Sydney last month.,0
+P076,MR4-S0189-01,MR-4,double_negation,Alice said the film was extremely ugly.,Alice said the film was not attractive.,0
+P077,MR3-S0066-00,MR-3,entity_swap,I heard from Mei that the exhibition in Mumbai was really amazing.,I heard from Alice that the exhibition in Lagos was really amazing.,0
+P078,MR3-S0449-00,MR-3,entity_swap,Mei visited the book in Seoul last year.,Alice visited the book in London last year.,1
+P079,MR2-S0580-00,MR-2,adverbial_reposition,Bob traveled to Mumbai this morning.,"This morning, Bob traveled to Mumbai.",1
+P080,MR1-S0137-00,MR-1,synonym_substitution,"In my opinion, the performance was very satisfying.","In my opinion, the performance was really gratifying.",0
+P081,MR4-S0145-00,MR-4,double_negation,I heard from Hiroshi that the concert in Tokyo was really wonderful.,I heard from Hiroshi that the concert in Tokyo was not unpleasant.,1
+P082,MR4-S0213-01,MR-4,double_negation,Priya complained that the album in Cairo was very disappointing.,Priya complained that the album in Cairo was not impressive.,0
+P083,MR4-S0060-01,MR-4,double_negation,I would recommend the exhibition because it was amazing.,I would recommend the exhibition because it was not unimpressive.,1
+P084,MR1-S0066-01,MR-1,synonym_substitution,I heard from Mei that the exhibition in Mumbai was really amazing.,I heard from Mei that the exhibition in Mumbai was genuinely remarkable.,1
+P085,MR2-S0014-01,MR-2,punctuation_padding,The show was praised by many visitors.,"""The show was praised by many visitors.""",0
+P086,MR1-S0039-00,MR-1,synonym_substitution,Hiroshi said the concert was very enjoyable.,Hiroshi said the concert was really pleasurable.,1
+P087,MR2-S0560-00,MR-2,punctuation_padding,Fatima said that the airline closes at seven thirty.,"""Fatima said that the airline closes at seven thirty.""",0
+P088,MR2-S0514-00,MR-2,adverbial_reposition,"On Monday, Jamal walked from the station to the clinic.",Jamal walked from the station to the clinic on Monday.,1
+P089,MR1-S0048-01,MR-1,synonym_substitution,The trip was truly interesting.,The trip was truly fascinating.,1
+P090,MR2-S0168-00,MR-2,punctuation_padding,"According to Priya, the exhibition in Sydney was quite unpleasant.","According  to  Priya,  the  exhibition  in  Sydney  was  quite  unpleasant.  ",0
+P091,MR3-S0342-01,MR-3,entity_swap,The hotel in Berlin looked crowded from outside.,The hotel in Lagos looked crowded from outside.,0
+P092,MR4-S0112-01,MR-4,double_negation,The tour was extremely wonderful.,The tour was not disagreeable.,0
+P093,MR1-S0329-00,MR-1,synonym_substitution,"The concert was very dull, but Jamal stayed until the end.","The concert was really tedious, but Jamal stayed until the end.",0
+P094,MR3-S0355-00,MR-3,entity_swap,"On Monday, Fatima visited the novel in Seoul.","On Monday, Giovanni visited the novel in London.",0
+P095,MR4-S0033-00,MR-4,double_negation,I thought the game was quite enjoyable.,I thought the game was not unenjoyable.,0
+P096,MR3-S0473-01,MR-3,entity_swap,The train to London leaves at nine.,The train to Paris leaves at nine.,0
+P097,MR1-S0425-00,MR-1,synonym_substitution,"The show was truly good, but Charlie stayed until the end.","The show was truly fine, but Charlie stayed until the end.",1
+P098,MR2-S0540-00,MR-2,adverbial_reposition,"On Monday, Ethan walked from the station to the museum.",Ethan walked from the station to the museum on Monday.,0
+P099,MR3-S0447-00,MR-3,entity_swap,The airline is located near the old market in Lagos.,The airline is located near the old market in Toronto.,1
+P100,MR2-S0275-00,MR-2,voice_conversion,The jury criticized the documentary.,The documentary was criticized by the jury.,1
+P101,MR2-S0538-00,MR-2,adverbial_reposition,"Last week, Diana traveled to Sydney.",Diana traveled to Sydney last week.,1
+P102,MR2-S0431-00,MR-2,voice_conversion,The jury reviewed the documentary.,The documentary was reviewed by the jury.,0
+P103,MR4-S0056-00,MR-4,double_negation,Priya felt the meal was incredibly great.,Priya felt the meal was not bad at all.,1
+P104,MR4-S0251-01,MR-4,double_negation,The tour seemed incredibly horrible to everyone.,The tour seemed not acceptable to everyone.,1
+P105,MR3-S0448-00,MR-3,entity_swap,"Last year, Mei visited the book in Sydney.","Last year, Alice visited the book in Cairo.",0
+P106,MR1-S0017-01,MR-1,synonym_substitution,I thought the performance was incredibly impressive.,I thought the performance was incredibly admirable.,0
+P107,MR4-S0328-01,MR-4,double_negation,I think the album was incredibly mediocre.,I think the album was not impressive.,1
+P108,MR3-S0406-01,MR-3,entity_swap,The bakery in Berlin looked dirty from outside.,The bakery in Lagos looked dirty from outside.,0
+P109,MR1-S0052-01,MR-1,synonym_substitution,The nurses at the airline were extremely friendly.,The nurses at the airline were exceptionally welcoming.,1
+P110,MR3-S0329-01,MR-3,entity_swap,"The concert was very dull, but Jamal stayed until the end.","The concert was very dull, but Mei stayed until the end.",0
+P111,MR2-S0023-00,MR-2,complementizer_insertion,Hiroshi said the meal was quite amazing.,Hiroshi said that the meal was quite amazing.,0
+P112,MR3-S0384-01,MR-3,entity_swap,Priya described the performance as quite nice.,Alice described the performance as quite nice.,0
+P113,MR2-S0408-00,MR-2,complementizer_insertion,I think the performance was quite nice.,I think that the performance was quite nice.,1
+P114,MR2-S0062-00,MR-2,voice_conversion,The performance was praised by the audience.,The audience praised the performance.,0
+P115,MR2-S0356-00,MR-2,adverbial_reposition,Ethan visited the podcast in Tokyo on Tuesday.,"On Tuesday, Ethan visited the podcast in Tokyo.",0
+P116,MR3-S0357-01,MR-3,entity_swap,The documentary that Hiroshi saw was extremely bad.,The documentary that Jamal saw was extremely bad.,1
+P117,MR2-S0319-00,MR-2,voice_conversion,Priya reviewed the film.,The film was reviewed by Priya.,1
+P118,MR4-S0148-00,MR-4,double_negation,"Our trip to Berlin was extremely good, and Charlie loved every minute.","Our trip to Berlin was not bad, and Charlie loved every minute.",1
+P119,MR4-S0050-00,MR-4,double_negation,I heard from Diana that the album in London was beautiful.,I heard from Diana that the album in London was not ugly.,1
+P120,MR4-S0076-00,MR-4,double_negation,I would recommend the play because it was exciting.,I would recommend the play because it was not boring.,0
+P121,MR4-S0276-00,MR-4,double_negation,Mei complained that the game in Sydney was truly horrible.,Mei complained that the game in Sydney was not good.,1
+P122,MR2-S0007-00,MR-2,complementizer_insertion,Mei said the book was good.,Mei said that the book was good.,0
+P123,MR3-S0497-01,MR-3,entity_swap,"On Tuesday, Mei traveled to Cairo.","On Tuesday, Bob traveled to London.",0
+P124,MR3-S0148-01,MR-3,entity_swap,"Our trip to Berlin was extremely good, and Charlie loved every minute.","Our trip to Lagos was extremely good, and Ethan loved every minute.",1
+P125,MR1-S0037-00,MR-1,synonym_substitution,"Our trip to Paris was truly amazing, and Charlie loved every minute.","Our trip to Paris was truly astonishing, and Charlie loved every minute.",1
+P126,MR2-S0322-00,MR-2,punctuation_padding,The library is located near the old market in Lagos.,The library is located near the old market in Lagos .,1
+P127,MR3-S0248-00,MR-3,entity_swap,"According to Mei, the performance in Tokyo was very disappointing.","According to Alice, the performance in Paris was very disappointing.",1
+P128,MR3-S0181-00,MR-3,entity_swap,Hiroshi complained that the show in Sydney was really unpleasant.,Imani complained that the show in Cairo was really unpleasant.,1
+P129,MR3-S0386-01,MR-3,entity_swap,The bakery is located near the old market in Berlin.,The bakery is located near the old market in Lagos.,1
+P130,MR1-S0008-01,MR-1,synonym_substitution,Imani felt the podcast was really great.,Imani felt the podcast was genuinely superb.,1
+P131,MR2-S0087-00,MR-2,complementizer_insertion,Ethan said the concert was nice.,Ethan said that the concert was nice.,0
+P132,MR4-S0347-01,MR-4,double_negation,The report said that the concert was very fantastic.,The report said that the concert was not unremarkable.,1
+P133,MR1-S0007-00,MR-1,synonym_substitution,Mei said the book was good.,Mei said the book was fine.,1
+P134,MR1-S0280-01,MR-1,synonym_substitution,What an awful show!,What an dreadful show!,0
+P135,MR1-S0254-01,MR-1,synonym_substitution,"In my opinion, the show was incredibly poor.","In my opinion, the show was incredibly substandard.",0
+P136,MR2-S0243-00,MR-2,voice_conversion,The trip was criticized by the audience.,The audience criticized the trip.,1
+P137,MR3-S0552-00,MR-3,entity_swap,"This morning, Jamal traveled to Toronto.","This morning, Priya traveled to Sydney.",0
+P138,MR1-S0268-00,MR-1,synonym_substitution,Giovanni said the album was extremely slow.,Giovanni said the album was incredibly sluggish.,1
+P139,MR2-S0071-00,MR-2,complementizer_insertion,Bob said the podcast was quite amazing.,Bob said that the podcast was quite amazing.,1
+P140,MR2-S0303-00,MR-2,voice_conversion,The jury reviewed the tour.,The tour was reviewed by the jury.,1
+P141,MR1-S0008-00,MR-1,synonym_substitution,Imani felt the podcast was really great.,Imani felt the podcast was truly excellent.,0
+P142,MR1-S0376-00,MR-1,synonym_substitution,I think the podcast was wonderful.,I think the podcast was marvelous.,0
+P143,MR1-S0155-00,MR-1,synonym_substitution,"The service at the museum was mediocre, and we left early.","The service at the museum was lackluster, and we left early.",1
+P144,MR3-S0388-01,MR-3,entity_swap,Bob visited the concert in Berlin last week.,Diana visited the concert in Lagos last week.,1
+P145,MR4-S0152-01,MR-4,double_negation,"According to Fatima, the album in Seoul was quite mediocre.","According to Fatima, the album in Seoul was not impressive.",1
+P146,MR4-S0167-01,MR-4,double_negation,I found the concert to be very boring.,I found the concert to be not exciting.,0
+P147,MR4-S0222-00,MR-4,double_negation,Giovanni felt the play was truly awful.,Giovanni felt the play was not good.,1
+P148,MR2-S0544-00,MR-2,adverbial_reposition,Imani and Alice met in Seoul on Tuesday.,"On Tuesday, Imani and Alice met in Seoul.",0
+P149,MR4-S0277-00,MR-4,double_negation,The trip was truly mediocre.,The trip was not good.,1
+P150,MR3-S0481-01,MR-3,entity_swap,Jamal sent a message to Imani about the game.,Mei sent a message to Priya about the game.,1
